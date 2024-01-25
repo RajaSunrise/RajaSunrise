@@ -34,9 +34,9 @@ I'm a passionate Full Stack Developer based in Indonesia. I love working with:
 
 Add some badges to showcase your skills, achievements, or social profiles:
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)](link-to-your-GitHub-profile)
-[![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](link-to-your-Twitter-profile)
-[![Visits Badge](https://badges.pufler.dev/visits/RajaSunrise/Rajasunrise)](link-to-your-repo)
+[![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/RajaSunrise)
+[![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/AryadiIndr23426?t=ALI-sGLSckNoOFOZ20zofQ&s=09)
+[![Visits Badge](https://badges.pufler.dev/visits/RajaSunrise/Rajasunrise)](https://github.com/django/django)
 
 <!-- Stats -->
 ## Stats 📊
@@ -50,7 +50,7 @@ Add some badges to showcase your skills, achievements, or social profiles:
 
 Let's connect and chat about tech, open source, or anything interesting!
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](link-to-your-twitter)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/AryadiIndr23426?t=ALI-sGLSckNoOFOZ20zofQ&s=09)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](link-to-your-linkedin)
 
 <!-- Footer -->
