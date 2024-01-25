@@ -25,9 +25,9 @@ I'm a passionate Full Stack Developer based in Indonesia. I love working with:
 
 ### My Projects 🛠️
 
-- [Project 1](https://github.com/RajaSunrise/django-fullstack): Short description.
-- [Project 2](link-to-project-2): Short description.
-- [Project 3](link-to-project-3): Short description.
+- [Project 1](https://github.com/RajaSunrise/django-fullstack): DJANGO-FULLSTACK
+- [Project 2](https://github.com/RajaSunrise/crud-fiber): crud-fiber
+- [Project 3](https://github.com/RajaSunrise/django): debian-brightness
 
 <!-- Badges -->
 ## Badges 🎖️
