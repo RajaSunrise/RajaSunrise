@@ -5,55 +5,53 @@
   </a>
 </p>
 <!-- Header -->
-<p align="center">
-  <img width="100%" alt="Welcome!" src="https://via.placeholder.com/1200x300/3498db/FFFFFF?text=Welcome+to+My+Awesome+Readme" />
-</p>
 
 <!-- Introduction -->
-## Hi there! 👋
+##  Crafting Scalable and Robust Backend Solutions 🏗️
 
-Welcome to my colorful and vibrant README! I'm excited to showcase my skills and projects.
+I'm a passionate Backend Developer dedicated to building reliable, high-performance systems that power exceptional applications. 
 
 ### About Me ℹ️
 
-I'm a passionate Full Stack Developer based in Indonesia. I love working with:
+I'm a skilled Backend Engineer with a strong foundation in building, optimizing, and scaling applications. I'm a problem-solver at heart, always seeking elegant solutions and efficient architectures. 
 
-- 💻 Django, FastAPI, Golang
-- ⚛️ React, Vue
-- 🚀 ViteJS
-- ...and more!
+My expertise lies in:
 
-### My Projects 🛠️
+- 💻 **Django**, **FastAPI**, **Golang** - I'm fluent in these powerful frameworks, enabling me to create scalable and maintainable backends.
+- 🔐 **Security** - I prioritize security best practices and incorporate them throughout the development lifecycle. 
+- 📈 **Performance Optimization** - I have a keen eye for performance bottlenecks and use proven techniques to ensure optimal application responsiveness.
+- 📦 **Microservices Architectures** - I understand the benefits and challenges of microservices and can architect and implement them effectively.
 
-- [Project 1](https://github.com/RajaSunrise/django-fullstack): DJANGO-FULLSTACK
-- [Project 2](https://github.com/RajaSunrise/crud-fiber): crud-fiber
-- [Project 3](https://github.com/RajaSunrise/django): debian-brightness
+###  My Projects:  🛠️
 
-<!-- Badges -->
-## Badges 🎖️
-
-Add some badges to showcase your skills, achievements, or social profiles:
-
-[![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/RajaSunrise)
-[![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/AryadiIndr23426?t=ALI-sGLSckNoOFOZ20zofQ&s=09)
-[![Visits Badge](https://badges.pufler.dev/visits/RajaSunrise/Rajasunrise)](https://github.com/django/django)
+- **[Project 1](https://github.com/RajaSunrise/django-fullstack): DJANGO-FULLSTACK** 
+    - A full-stack Django application demonstrating my ability to build complex web applications with robust backends. 
+- **[Project 2](https://github.com/RajaSunrise/crud-fiber): crud-fiber**
+    - A CRUD application built with Fiber (Go) showcases my proficiency in backend frameworks and REST API development.
+- **[Project 3](https://github.com/RajaSunrise/django): debian-brightness**
+    - This project reflects my aptitude for scripting and automation, which are crucial skills in building maintainable backend systems.
 
 <!-- Stats -->
-## Stats 📊
+##  My Stats 📊
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RajaSunrise&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 <!-- Contact -->
-## Connect with Me 🌐
+##  Let's Build Something Great 🤝
 
-Let's connect and chat about tech, open source, or anything interesting!
+I'm always eager to explore new challenges and collaborate on exciting projects. If you're looking for a passionate and experienced Backend Developer, let's connect!
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/AryadiIndr23426?t=ALI-sGLSckNoOFOZ20zofQ&s=09)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](link-to-your-linkedin)
 
 <!-- Footer -->
-<p align="center">
-  <img width="50%" src="https://via.placeholder.com/600x200/3498db/FFFFFF?text=Thank+You+for+Visiting" />
-</p>
+
+<div align="center">
+  <p style="font-family: monospace; font-size: 12px; color: #2196F3;">
+    Built with ☕ and 💻.
+    <br/>
+    © 2024, RajaSunrise
+  </p>
+</div>
