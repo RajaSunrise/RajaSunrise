@@ -26,7 +26,7 @@ My expertise lies in:
 
 - **[Project 1](https://github.com/RajaSunrise/django-fullstack): DJANGO-FULLSTACK** 
     - A full-stack Django application demonstrating my ability to build complex web applications with robust backends. 
-- **[Project 2](https://github.com/RajaSunrise/crud-fiber): crud-fiber**
+- **[Project 2](https://github.com/RajaSunrise/fiber-hotel): fiber-hotel**
     - A CRUD application built with Fiber (Go) showcases my proficiency in backend frameworks and REST API development.
 - **[Project 3](https://github.com/RajaSunrise/django): debian-brightness**
     - This project reflects my aptitude for scripting and automation, which are crucial skills in building maintainable backend systems.
