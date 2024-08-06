@@ -1,0 +1,18 @@
+name: Update Repository
+
+    on:
+      schedule:
+        - cron: "*/2 * * * *"  # Menjalankan setiap 5 menit
+      workflow_dispatch:
+
+    jobs:
+      update-repo:
+        runs-on: ubuntu-latest
+
+        steps:
+          - name: Checkout Repository
+            uses: actions/checkout@v2
+
+          - name: Update Repository
+            run: |
+              git pull origin main
