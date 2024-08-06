@@ -1,0 +1,25 @@
+name: Auto Commit
+
+on:
+  schedule:
+    - cron: "* * * * *"  # Setiap menit
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Make Changes
+        run: |
+          echo "Update at $(date)" >> file.txt
+
+      - name: Commit Changes
+        run: |
+          git config --local user.name "RajaSunrise"
+          git config --local user.email "rajasunsrise@gmail.com"
+          git add file.txt
+          git commit -m "Auto commit: $(date)"
+          git push origin main
