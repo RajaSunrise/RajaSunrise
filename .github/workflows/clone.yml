@@ -2,7 +2,7 @@ name: Update Repository
 
     on:
       schedule:
-        - cron: "*/2 * * * *"  # Menjalankan setiap 5 menit
+        - cron: "*/1 * * * *"
       workflow_dispatch:
 
     jobs:
@@ -15,4 +15,4 @@ name: Update Repository
 
           - name: Update Repository
             run: |
-              git pull origin main
+              echo "Welcome to My github"
