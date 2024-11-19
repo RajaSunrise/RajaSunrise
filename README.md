@@ -7,7 +7,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=RajaSunrise&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
+## Familiar Language 👨‍💻
+<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajaSunrise&langs_count=5&hide=javascript,html,php,coffeescript,css,Dockerfile,c,C++,jupyter%20notebook)
+</div>
 <!-- Footer -->
 
 <div align="center">
