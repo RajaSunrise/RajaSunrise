@@ -14,6 +14,6 @@
   <p style="font-family: monospace; font-size: 12px; color: #2196F3;">
     Built with ☕, 💻, dan ❤️  
     <br/>
-    © 2024, RajaSunrise
+    © 2025, RajaSunrise
   </p>
 </div>
