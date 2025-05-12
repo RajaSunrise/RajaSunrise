@@ -47,7 +47,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/indra-aryadi"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/indra-aryadi-961a98243"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"></a>
   <a href="https://twitter.com/indra-aryadi"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&style=for-the-badge" alt="Twitter"></a>
 </p>
 
