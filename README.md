@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm RajaSunrise! ☀️
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Coding+with+passion+and+curiosity." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+am+Backend+Enginer+." alt="Typing SVG" />
 </p>
 
 <p align="center">
