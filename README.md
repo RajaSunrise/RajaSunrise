@@ -34,6 +34,9 @@
 
 ---
 
+## 🏆 GitHub Trophy 
+<img src="https://github-profile-trophy.vercel.app/?username=RajaSunrise&column=3&theme=onedark"/>
+
 ## 🏆 Top Languages
 
 <p align="center">
