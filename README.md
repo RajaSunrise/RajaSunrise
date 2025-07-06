@@ -21,29 +21,30 @@
 ### 👨‍💻 About Me
    Hello! I'm RajaSunrise, a Backend Engineer based in Indonesia with a passion for building efficient and scalable systems. I specialize in designing robust architectures and solving complex technical challenges.
  <br>
+🔭 **Currently Working On**: Distributed systems architecture  
+
+🌱 **Learning**: Cloud-native development & advanced system design  
+
+💬 **Ask Me About**: Backend architecture, API design, database optimization  
+
+⚡ **Fun Fact**: I see code as a form of artistic expression
       
-      🔭 **Currently Working On**: Distributed systems architecture  
-      🌱 **Learning**: Cloud-native development & advanced system design  
-      💬 **Ask Me About**: Backend architecture, API design, database optimization  
-      ⚡ **Fun Fact**: I see code as a form of artistic expression
+<br>
+
+📫 Reach me: **indra020204@gmail.com**
       
-      <br>
-      
-      📫 Reach me: **indra020204@gmail.com**
-      
-    <td width="40%" valign="top">
-      
-      ### 🚀 Core Expertise
-      ```mermaid
-      graph LR
-        A[Backend Development] --> B[System Design]
+### 🚀 Core Expertise
+
+```mermaid
+    graph LR
+      A[Backend Development] --> B[System Design]
         A --> C[API Architecture]
         A --> D[Database Optimization]
         B --> E[Microservices]
         C --> F[REST & gRPC]
         D --> G[SQL & NoSQL]
         E --> H[Containerization]
-      ```
+```
 
 ---
 
