@@ -20,12 +20,10 @@
 ---
 
 <table>
-    <td width="60%" valign="top">
-      
-      ### 👨‍💻 About Me
-      Hello! I'm RajaSunrise, a Backend Engineer based in Indonesia with a passion for building efficient and scalable systems. I specialize in designing robust architectures and solving complex technical challenges.
-      
-      <br>
+<td width="60%" valign="top">
+### 👨‍💻 About Me
+   Hello! I'm RajaSunrise, a Backend Engineer based in Indonesia with a passion for building efficient and scalable systems. I specialize in designing robust architectures and solving complex technical challenges.
+ <br>
       
       🔭 **Currently Working On**: Distributed systems architecture  
       🌱 **Learning**: Cloud-native development & advanced system design  
@@ -51,7 +49,6 @@
         E --> H[Containerization]
       ```
     </td>
-</table>
 
 ---
 
