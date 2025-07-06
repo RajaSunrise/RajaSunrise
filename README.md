@@ -92,13 +92,6 @@ graph LR
 
 ---
 
-### 🏆 Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RajaSunrise&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&title_color=6C63FF&icon_color=FF6584" alt="GitHub Trophies">
-</div>
-
----
-
 ### 🌐 Connect With Me
 <div align="center">
   <a href="https://www.linkedin.com/in/indra-aryadi-961a98243">
