@@ -18,9 +18,6 @@
 </div>
 
 ---
-
-<table>
-<td width="60%" valign="top">
 ### 👨‍💻 About Me
    Hello! I'm RajaSunrise, a Backend Engineer based in Indonesia with a passion for building efficient and scalable systems. I specialize in designing robust architectures and solving complex technical challenges.
  <br>
@@ -34,7 +31,6 @@
       
       📫 Reach me: **indra020204@gmail.com**
       
-    </td>
     <td width="40%" valign="top">
       
       ### 🚀 Core Expertise
@@ -48,7 +44,6 @@
         D --> G[SQL & NoSQL]
         E --> H[Containerization]
       ```
-    </td>
 
 ---
 
