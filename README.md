@@ -20,7 +20,6 @@
 ---
 
 <table>
-  <tr>
     <td width="60%" valign="top">
       
       ### 👨‍💻 About Me
@@ -52,7 +51,6 @@
         E --> H[Containerization]
       ```
     </td>
-  </tr>
 </table>
 
 ---
