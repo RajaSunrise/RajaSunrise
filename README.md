@@ -1,4 +1,3 @@
-<!-- Header dengan animasi modern -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=RajaSunrise&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20Engineer&descSize=24&descAlignY=65"/>
 </div>
@@ -20,7 +19,6 @@
 
 ---
 
-<!-- Layout modern dengan grid -->
 <table>
   <tr>
     <td width="60%" valign="top">
