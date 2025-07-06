@@ -36,14 +36,14 @@
 ### 🚀 Core Expertise
 
 ```mermaid
-    graph LR
-      A[Backend Development] --> B[System Design]
-        A --> C[API Architecture]
-        A --> D[Database Optimization]
-        B --> E[Microservices]
-        C --> F[REST & gRPC]
-        D --> G[SQL & NoSQL]
-        E --> H[Containerization]
+graph LR
+  A[Backend Development] --> B[System Design]
+     A --> C[API Architecture]
+     A --> D[Database Optimization]
+     B --> E[Microservices]
+     C --> F[REST & gRPC]
+     D --> G[SQL & NoSQL]
+     E --> H[Containerization]
 ```
 
 ---
