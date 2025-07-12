@@ -93,6 +93,12 @@ graph LR
 </div>
 
 ---
+### 🐍 GitHub Activity Snake
+
+![snake](https://raw.githubusercontent.com/RajaSunrise/RajaSunrise/snake/github-snake-dark.svg#gh-dark-mode-only)
+![snake](https://raw.githubusercontent.com/RajaSunrise/RajaSunrise/snake/github-snake.svg#gh-light-mode-only)
+
+---
 
 ### 🌐 Connect With Me
 <div align="center">
