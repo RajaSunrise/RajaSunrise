@@ -9,7 +9,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Django-3776AB?style=for-the-badge&logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
@@ -17,67 +16,74 @@
 </div>
 
 ---
-### 👨‍💻 About Me
-   Hello! I'm RajaSunrise, a Backend Engineer based in Indonesia with a passion for building efficient and scalable systems. I specialize in designing robust architectures and solving complex technical challenges.
- <br>
 
-🔭 **Currently Working On**: Distributed systems architecture  
+### 👨‍💻 Tentang Saya
 
-🌱 **Learning**: Cloud-native development & advanced system design  
+Halo! Saya RajaSunrise, seorang **Backend Engineer** dari Indonesia dengan semangat untuk membangun sistem yang efisien dan skalabel. Saya berspesialisasi dalam merancang arsitektur yang kuat dan memecahkan tantangan teknis yang kompleks.
 
-💬 **Ask Me About**: Backend architecture, API design, database optimization  
+- 🔭 **Saat Ini Mengerjakan**: Arsitektur sistem terdistribusi (Distributed Systems).
+- 🌱 **Sedang Mempelajari**: Cloud-native development & desain sistem tingkat lanjut.
+- 💬 **Tanya Saya Tentang**: Arsitektur backend, desain API, dan optimisasi database.
+- ⚡ **Fakta Unik**: Saya melihat kode sebagai bentuk ekspresi artistik.
 
-⚡ **Fun Fact**: I see code as a form of artistic expression
-      
 <br>
 
-📫 Reach me: **indra020204@gmail.com**
-      
-### 🚀 Core Expertise
+📫 Hubungi saya: **indra020204@gmail.com**
+
+---
+
+### 🚀 Keahlian Inti
 
 ```mermaid
-graph LR
-  A[Backend Development] --> B[System Design]
-     A --> C[API Architecture]
-     A --> D[Database Optimization]
-     B --> E[Microservices]
-     C --> F[REST & gRPC]
-     D --> G[SQL & NoSQL]
-     E --> H[Containerization]
-```
+graph TD
+    A[Backend Development] -->|Manages| B(System Design);
+    A -->|Includes| C(API Architecture);
+    A -->|Focuses on| D(Database Optimization);
 
-🛠️ Tech Stack
-Languages & Frameworks
+    subgraph "System Design"
+        B --> E[Microservices];
+        B --> H[Containerization & Orchestration];
+    end
+
+    subgraph "API & Databases"
+        C --> F[REST & gRPC];
+        D --> G[SQL & NoSQL];
+    end
+```
+🛠️ Teknologi & Tools
 <div align="center">
+<h4>Bahasa & Framework</h4>
+<p>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/Django-3776AB?style=flat-square&logo=django&logoColor=white" alt="Django">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="NodeJS">
 <img src="https://img.shields.io/badge/Fiber-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Fiber">
-</div>
-Databases
-<div align="center">
+</p>
+<h4>Database</h4>
+<p>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
-</div>
-DevOps & Cloud
-<div align="center">
+</p>
+<h4>DevOps & Cloud</h4>
+<p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
 <img src="https://img.shields.io/badge/Podman-326CE5?style=flat-square&logo=Podman&logoColor=white" alt="Podman">
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS">
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+</p>
 </div>
-📊 GitHub Analytics
+📊 Analitik GitHub
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=RajaSunrise&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6584" alt="Statistik GitHub RajaSunrise">
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajaSunrise&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&langs_count=8" alt="Bahasa Teratas RajaSunrise">
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RajaSunrise&theme=radical&hide_border=true&background=0D1117&stroke=6C63FF" alt="Streak GitHub RajaSunrise">
 </div>
-🐍 GitHub Activity Snake
-<div align="center">
-<img alt="github activity snake" src="https://raw.githubusercontent.com/RajaSunrise/RajaSunrise/snake/github-snake-dark.svg#gh-dark-mode-only" />
-<img alt="github activity snake" src="https://raw.githubusercontent.com/RajaSunrise/RajaSunrise/snake/github-snake.svg#gh-light-mode-only" />
-</div>
-🌐 Connect With Me
+🌐 Terhubung Dengan Saya
 <div align="center">
 <a href="https://www.linkedin.com/in/indra-aryadi-961a98243">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
