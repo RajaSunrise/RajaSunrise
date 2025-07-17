@@ -50,6 +50,9 @@ graph TD
         D --> G[SQL & NoSQL];
     end
 ```
+
+
+---
 ### 🛠️ Teknologi & Tools
 <div align="center">
 <h4>Bahasa & Framework</h4>
@@ -76,6 +79,7 @@ graph TD
 </p>
 </div>
 
+---
 ### 📊 Analitik GitHub
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=RajaSunrise&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6584" alt="Statistik GitHub RajaSunrise">
@@ -85,6 +89,7 @@ graph TD
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajaSunrise&theme=radical&hide_border=true&background=0D1117&stroke=6C63FF" alt="Streak GitHub RajaSunrise">
 </div>
 
+---
 ### 🌐 Terhubung Dengan Saya
 <div align="center">
 <a href="https://www.linkedin.com/in/indra-aryadi-961a98243">
