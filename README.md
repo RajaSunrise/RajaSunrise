@@ -1,39 +1,27 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=RajaSunrise&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20Engineer&descSize=24&descAlignY=65"/>
-</div>
 
 <div align="center">
-  <h3>Building Scalable Systems • Crafting Efficient Solutions</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=RajaSunrise&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20Engineer&descSize=24&descAlignY=65"/>
 </div>
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+<h3>Building Scalable Systems • Crafting Efficient Solutions</h3>
 </div>
-
----
-
-### 👨‍💻 Tentang Saya
-
-Halo! Saya RajaSunrise, seorang **Backend Engineer** dari Indonesia dengan semangat untuk membangun sistem yang efisien dan skalabel. Saya berspesialisasi dalam merancang arsitektur yang kuat dan memecahkan tantangan teknis yang kompleks.
-
-- 🔭 **Saat Ini Mengerjakan**: Arsitektur sistem terdistribusi (Distributed Systems).
-- 🌱 **Sedang Mempelajari**: Cloud-native development & desain sistem tingkat lanjut.
-- 💬 **Tanya Saya Tentang**: Arsitektur backend, desain API, dan optimisasi database.
-- ⚡ **Fakta Unik**: Saya melihat kode sebagai bentuk ekspresi artistik.
-
+<div align="center">
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+</div>
+### 👨‍💻 About Me
+Hello! I'm RajaSunrise, a Backend Engineer from Indonesia with a passion for building efficient and scalable systems. I specialize in designing robust architectures and solving complex technical challenges.
+ * 🔭 Currently Working On: Distributed Systems architecture.
+ * 🌱 Currently Learning: Cloud-native development & advanced system design.
+ * 💬 Ask Me About: Backend architecture, API design, and database optimization.
+ * ⚡ Fun Fact: I see code as a form of artistic expression.
 <br>
-
-📫 Hubungi saya: **indra020204@gmail.com**
-
----
-
-### 🚀 Keahlian Inti
-
+📫 Contact me: indra020204@gmail.com
+🚀 Core Expertise
 ```mermaid
 graph TD
     A[Backend Development] -->|Manages| B(System Design);
@@ -50,12 +38,9 @@ graph TD
         D --> G[SQL & NoSQL];
     end
 ```
-
-
----
-### 🛠️ Teknologi & Tools
+### 🛠️ Technologies & Tools
 <div align="center">
-<h4>Bahasa & Framework</h4>
+<h4>Languages & Frameworks</h4>
 <p>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -63,7 +48,7 @@ graph TD
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="NodeJS">
 <img src="https://img.shields.io/badge/Fiber-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Fiber">
 </p>
-<h4>Database</h4>
+<h4>Databases</h4>
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
@@ -78,19 +63,15 @@ graph TD
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
 </p>
 </div>
-
----
-### 📊 Analitik GitHub
+### 📊 GitHub Analytics
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RajaSunrise&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6584" alt="Statistik GitHub RajaSunrise">
+<img src="https://github-readme-stats.vercel.app/api?username=RajaSunrise&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6584" alt="RajaSunrise GitHub Stats">
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajaSunrise&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&langs_count=8" alt="Bahasa Teratas RajaSunrise">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajaSunrise&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&langs_count=8" alt="RajaSunrise Top Languages">
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RajaSunrise&theme=radical&hide_border=true&background=0D1117&stroke=6C63FF" alt="Streak GitHub RajaSunrise">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RajaSunrise&theme=radical&hide_border=true&background=0D1117&stroke=6C63FF" alt="RajaSunrise GitHub Streak">
 </div>
-
----
-### 🌐 Terhubung Dengan Saya
+### 🌐 Connect With Me
 <div align="center">
 <a href="https://www.linkedin.com/in/indra-aryadi-961a98243">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -108,4 +89,3 @@ graph TD
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer&reversal=true"/>
 </div>
-
