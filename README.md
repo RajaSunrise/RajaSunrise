@@ -44,23 +44,6 @@ Hello! I'm RajaSunrise, a passionate Backend Engineer and Systems Architect from
 - ⚡ **Engineering Philosophy:** "Simplicity is the ultimate sophistication" - Da Vinci
 - 📫 **Let's Connect:** [indra020204@gmail.com](mailto:indra020204@gmail.com) | [LinkedIn](https://www.linkedin.com/in/indra-aryadi-961a98243)
 
-```mermaid
-journey
-  title My Engineering Journey
-  section Education
-    2018-2022: Computer Science Degree
-    2022-Present: Continuous Learning
-  section Experience
-    2020-2021: Junior Backend Developer
-    2021-2022: Backend Engineer
-    2022-Present: Systems Architect
-  section Specialization
-    Microservices: 5
-    Cloud Infrastructure: 4
-    Database Systems: 5
-    API Design: 5
-```
-
 ## 🚀 Core Expertise
 
 ### Systems Architecture
