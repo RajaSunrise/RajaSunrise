@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud">
 </div>
 
+---
 ## 👨‍💻 About Me
 Hello! I'm RajaSunrise, a passionate Backend Engineer and Systems Architect from Indonesia. With a strong focus on building resilient and scalable distributed systems, I thrive on solving complex technical challenges and optimizing performance bottlenecks. My approach combines rigorous engineering principles with creative problem-solving to deliver robust solutions.
 
@@ -44,6 +45,7 @@ Hello! I'm RajaSunrise, a passionate Backend Engineer and Systems Architect from
 - ⚡ **Engineering Philosophy:** "Simplicity is the ultimate sophistication" - Da Vinci
 - 📫 **Let's Connect:** [indra020204@gmail.com](mailto:indra020204@gmail.com) | [LinkedIn](https://www.linkedin.com/in/indra-aryadi-961a98243)
 
+---
 ## 🚀 Core Expertise
 
 ### Systems Architecture
@@ -67,6 +69,7 @@ graph LR
   G --> A
 ```
 
+---
 ## 🛠️ Technology Stack
 
 ### Languages & Frameworks
@@ -104,17 +107,7 @@ graph LR
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana">
 </div>
 
-## 🌟 Featured Projects
-
-<div align="center">
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RajaSunrise&repo=distributed-task-queue&theme=radical&show_owner=true)](https://github.com/RajaSunrise/django-fullstack)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RajaSunrise&repo=high-performance-api-gateway&theme=radical&show_owner=true)](https://github.com/RajaSunrise/fiber-hotel)
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RajaSunrise&repo=real-time-analytics-engine&theme=radical&show_owner=true)](https://github.com/NarmadaWeb/gonify)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RajaSunrise&repo=microservices-orchestrator&theme=radical&show_owner=true)](https://github.com/NarmadaWeb/limiter)
-</div>
-
+---
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -124,10 +117,8 @@ graph LR
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajaSunrise&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&langs_count=8&exclude_repo=dotfiles" alt="Top Languages">
   
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RajaSunrise&theme=radical&hide_border=true&background=0D1117&stroke=6C63FF&ring=FF6584&fire=FF6584&currStreakLabel=6C63FF" alt="GitHub Streak">
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=RajaSunrise&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
-</div>
 
-
+---
 ## 🌐 Connect With Me
 
 <div align="center">
