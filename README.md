@@ -108,11 +108,11 @@ graph LR
 
 <div align="center">
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RajaSunrise&repo=distributed-task-queue&theme=radical&show_owner=true)](https://github.com/RajaSunrise/distributed-task-queue)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RajaSunrise&repo=high-performance-api-gateway&theme=radical&show_owner=true)](https://github.com/RajaSunrise/high-performance-api-gateway)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RajaSunrise&repo=distributed-task-queue&theme=radical&show_owner=true)](https://github.com/RajaSunrise/django-fullstack)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RajaSunrise&repo=high-performance-api-gateway&theme=radical&show_owner=true)](https://github.com/RajaSunrise/fiber-hotel)
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RajaSunrise&repo=real-time-analytics-engine&theme=radical&show_owner=true)](https://github.com/RajaSunrise/real-time-analytics-engine)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RajaSunrise&repo=microservices-orchestrator&theme=radical&show_owner=true)](https://github.com/RajaSunrise/microservices-orchestrator)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RajaSunrise&repo=real-time-analytics-engine&theme=radical&show_owner=true)](https://github.com/NarmadaWeb/gonify)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RajaSunrise&repo=microservices-orchestrator&theme=radical&show_owner=true)](https://github.com/NarmadaWeb/limiter)
 </div>
 
 ## 📊 GitHub Analytics
@@ -127,26 +127,6 @@ graph LR
   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=RajaSunrise&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
 </div>
 
-## ✍️ Technical Writing
-
-- [Designing Scalable Backend Systems: Patterns and Anti-patterns](https://example.com/scalability-patterns)
-- [Optimizing Go Applications for High Throughput](https://example.com/go-optimization)
-- [The Complete Guide to Database Sharding](https://example.com/database-sharding)
-- [Kubernetes for Backend Developers: Beyond the Basics](https://example.com/k8s-backend)
-
-## 📈 Development Activity
-
-```mermaid
-gantt
-  title Current Development Focus
-  dateFormat  YYYY-MM-DD
-  section System Optimization
-  Database Sharding       :active,  des1, 2023-08-01, 2023-09-15
-  Caching Layer Expansion :         des2, 2023-09-16, 2023-10-30
-  section New Features
-  Event Sourcing          :         des3, 2023-08-15, 2023-10-01
-  Real-time Analytics     :         des4, 2023-09-01, 2023-11-15
-```
 
 ## 🌐 Connect With Me
 
