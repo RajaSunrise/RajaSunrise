@@ -9,10 +9,6 @@
 </div>
 
 <div align="center">
-  <h3>🚀 Transforming Complex Problems into Elegant Solutions • Building Tomorrow's Infrastructure Today</h3>
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=RajaSunrise&style=flat-square&color=6C63FF" alt="Profile Views">
   <a href="https://github.com/RajaSunrise?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-15+-6C63FF?style=flat-square" alt="Repositories">
