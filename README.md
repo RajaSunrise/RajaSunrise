@@ -114,6 +114,8 @@ graph LR
   
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RajaSunrise&theme=radical&hide_border=true&background=0D1117&stroke=6C63FF&ring=FF6584&fire=FF6584&currStreakLabel=6C63FF" alt="GitHub Streak">
 
+<img src="https://raw.githubusercontent.com/RajaSunrise/RajaSunrise/output/snake.svg" alt="Snake animation" />
+
 ---
 ## 🌐 Connect With Me
 
