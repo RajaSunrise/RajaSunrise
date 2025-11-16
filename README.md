@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hello+World!+%F0%9F%91%8B;I'm+RajaSunrise%E2%80%94Backend+Architect;Specializing+in+Scalable+Systems;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hello+World!+%F0%9F%91%8B;I'm+RajaSunrise%E2%80%94Backend+Engineer;Specializing+in+Scalable+Systems;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -33,7 +33,7 @@
 
 ---
 ## 👨‍💻 About Me
-Hello! I'm RajaSunrise, a passionate Backend Engineer and Systems Architect from Indonesia. With a strong focus on building resilient and scalable distributed systems, I thrive on solving complex technical challenges and optimizing performance bottlenecks. My approach combines rigorous engineering principles with creative problem-solving to deliver robust solutions.
+Hello! I'm RajaSunrise, a passionate Backend Engineer from Indonesia. With a strong focus on building resilient and scalable distributed systems, I thrive on solving complex technical challenges and optimizing performance bottlenecks. My approach combines rigorous engineering principles with creative problem-solving to deliver robust solutions.
 
 - 🔭 **Currently Architecting:** Cloud-native microservices ecosystem handling 50k+ RPS
 - 🌱 **Deep Diving Into:** Event-driven architectures & real-time data processing
