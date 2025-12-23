@@ -103,7 +103,7 @@ graph LR
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RajaSunrise&theme=radical" alt="Profile Details">
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RajaSunrise&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6584&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajaSunrise&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&langs_count=8&exclude_repo=dotfiles" alt="Top Languages">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajaSunrise&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&langs_count=8&exclude_repo=dotfiles&exclude_lang=javascript,dart" alt="Top Languages">
 
 <img src="https://raw.githubusercontent.com/RajaSunrise/RajaSunrise/output/snake.svg" alt="Snake animation" />
 
